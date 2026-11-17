@@ -1,0 +1,44 @@
+{
+  "period": {
+    "start": "2021-01-04",
+    "end": "2021-12-30",
+    "sessions": 247
+  },
+  "price": {
+    "start_adj_close": 25.18,
+    "end_adj_close": 7.22,
+    "max_adj_close": 26.22,
+    "max_price_date": "2021-02-09",
+    "min_adj_close": 5.74,
+    "min_price_date": "2021-12-14"
+  },
+  "risk_return": {
+    "period_return_pct": -71.33,
+    "max_drawdown_pct": -78.11,
+    "annualized_volatility_pct": 56.86,
+    "best_day_pct": 12.27,
+    "best_day_date": "2021-11-05",
+    "worst_day_pct": -18.32,
+    "worst_day_date": "2021-11-12"
+  },
+  "volume": {
+    "average": 45360554,
+    "median": 31308995,
+    "max": 257831300,
+    "max_date": "2021-12-09"
+  },
+  "monthly_returns_pct": {
+    "2021-01": 0.28,
+    "2021-02": -4.31,
+    "2021-03": -16.29,
+    "2021-04": -1.04,
+    "2021-05": 0.65,
+    "2021-06": 4.91,
+    "2021-07": -2.53,
+    "2021-08": -11.46,
+    "2021-09": -21.38,
+    "2021-10": -24.62,
+    "2021-11": -27.84,
+    "2021-12": -7.44
+  }
+}
